@@ -1,0 +1,114 @@
+[05-Apr-2016 05:38:52 UTC] PHP Notice:  Undefined index: showf in /home/man86ebc/public_html/wp-content/plugins/ultimate-social-media-plus/libs/sfsi_widget.php on line 102
+[05-Apr-2016 05:38:52 UTC] PHP Notice:  Undefined index: map_title in /home/man86ebc/public_html/wp-content/plugins/wp-google-map-plugin/core/class.map-widget.php on line 74
+[05-Apr-2016 05:38:52 UTC] PHP Notice:  Undefined index: map_id in /home/man86ebc/public_html/wp-content/plugins/wp-google-map-plugin/core/class.map-widget.php on line 86
+[05-Apr-2016 05:43:36 UTC] PHP Fatal error:  Out of memory (allocated 66846720) (tried to allocate 524288 bytes) in /home/man86ebc/public_html/wp-includes/pomo/mo.php on line 268
+[05-Apr-2016 05:43:36 UTC] PHP Fatal error:  Out of memory (allocated 26476544) (tried to allocate 30720 bytes) in /home/man86ebc/public_html/wp-content/plugins/contact-form-7/includes/contact-form.php on line 456
+[05-Apr-2016 06:51:47 UTC] PHP Notice:  Undefined index: disconnected in /home/man86ebc/public_html/wp-content/plugins/jetpack/class.jetpack.php on line 3120
+[05-Apr-2016 14:59:00 UTC] PHP Fatal error:  Out of memory (allocated 47448064) (tried to allocate 122880 bytes) in /home/man86ebc/public_html/wp-content/plugins/wordpress-seo/inc/class-wpseo-meta.php on line 917
+[05-Apr-2016 14:59:45 UTC] PHP Notice:  Undefined index: ossdl_https in /home/man86ebc/public_html/wp-content/plugins/wp-super-cache/ossdl-cdn.php on line 135
+[05-Apr-2016 15:02:50 UTC] PHP Fatal error:  Out of memory (allocated 47185920) (tried to allocate 30720 bytes) in /home/man86ebc/public_html/wp-content/plugins/contact-form-7/modules/recaptcha.php on line 424
+[05-Apr-2016 15:09:49 UTC] PHP Notice:  Undefined index: showf in /home/man86ebc/public_html/wp-content/plugins/ultimate-social-media-plus/libs/sfsi_widget.php on line 102
+[05-Apr-2016 15:09:49 UTC] PHP Notice:  Undefined index: map_title in /home/man86ebc/public_html/wp-content/plugins/wp-google-map-plugin/core/class.map-widget.php on line 74
+[05-Apr-2016 15:09:49 UTC] PHP Notice:  Undefined index: map_id in /home/man86ebc/public_html/wp-content/plugins/wp-google-map-plugin/core/class.map-widget.php on line 86
+[05-Apr-2016 15:40:52 UTC] PHP Fatal error:  Out of memory (allocated 19922944) (tried to allocate 30720 bytes) in /home/man86ebc/public_html/wp-includes/taxonomy.php on line 1737
+[05-Apr-2016 16:08:14 UTC] PHP Fatal error:  Out of memory (allocated 71565312) (tried to allocate 30720 bytes) in /home/man86ebc/public_html/wp-admin/custom-background.php on line 145
+[05-Apr-2016 16:17:21 UTC] PHP Notice:  Undefined variable: cache_path in /home/man86ebc/public_html/wp-content/plugins/wp-super-cache/wp-cache-phase1.php on line 19
+[05-Apr-2016 16:17:21 UTC] PHP Notice:  Undefined variable: cache_enabled in /home/man86ebc/public_html/wp-content/plugins/wp-super-cache/wp-cache-phase1.php on line 50
+[05-Apr-2016 16:17:25 UTC] PHP Fatal error:  Out of memory (allocated 23855104) (tried to allocate 30720 bytes) in /home/man86ebc/public_html/wp-includes/nav-menu-template.php on line 302
+[05-Apr-2016 16:18:21 UTC] PHP Notice:  Undefined variable: cache_path in /home/man86ebc/public_html/wp-content/plugins/wp-super-cache/wp-cache-phase1.php on line 19
+[05-Apr-2016 16:18:21 UTC] PHP Notice:  Undefined variable: cache_enabled in /home/man86ebc/public_html/wp-content/plugins/wp-super-cache/wp-cache-phase1.php on line 50
+[05-Apr-2016 16:22:35 UTC] PHP Fatal error:  Out of memory (allocated 31195136) (tried to allocate 122880 bytes) in /home/man86ebc/public_html/wp-content/plugins/woocommerce/includes/wc-order-functions.php on line 706
+[05-Apr-2016 16:22:38 UTC] PHP Fatal error:  Out of memory (allocated 76021760) (tried to allocate 7680 bytes) in /home/man86ebc/public_html/wp-admin/includes/ajax-actions.php on line 622
+[05-Apr-2016 16:34:20 UTC] PHP Fatal error:  Out of memory (allocated 43253760) (tried to allocate 122880 bytes) in /home/man86ebc/public_html/wp-content/plugins/wp-super-cache/wp-cache.php on line 500
+[05-Apr-2016 16:34:20 UTC] PHP Fatal error:  Call to undefined function is_user_logged_in() in /home/man86ebc/public_html/wp-content/plugins/wp-statistics/includes/classes/hits.class.php on line 253
+[05-Apr-2016 16:43:25 UTC] PHP Fatal error:  Out of memory (allocated 38010880) (tried to allocate 7680 bytes) in /home/man86ebc/public_html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-payment-gateway.php on line 114
+[05-Apr-2016 17:47:30 UTC] PHP Fatal error:  Out of memory (allocated 43515904) (tried to allocate 491520 bytes) in /home/man86ebc/public_html/wp-content/plugins/wp-super-cache/wp-cache.php on line 969
+[05-Apr-2016 17:47:30 UTC] PHP Fatal error:  Call to undefined function is_user_logged_in() in /home/man86ebc/public_html/wp-content/plugins/wp-statistics/includes/classes/hits.class.php on line 253
+[05-Apr-2016 17:49:17 UTC] PHP Notice:  Undefined index: showf in /home/man86ebc/public_html/wp-content/plugins/ultimate-social-media-plus/libs/sfsi_widget.php on line 102
+[05-Apr-2016 17:49:17 UTC] PHP Notice:  Undefined index: map_title in /home/man86ebc/public_html/wp-content/plugins/wp-google-map-plugin/core/class.map-widget.php on line 74
+[05-Apr-2016 17:49:17 UTC] PHP Notice:  Undefined index: map_id in /home/man86ebc/public_html/wp-content/plugins/wp-google-map-plugin/core/class.map-widget.php on line 86
+[06-Apr-2016 02:41:53 UTC] PHP Fatal error:  Out of memory (allocated 62128128) (tried to allocate 294 bytes) in /home/man86ebc/public_html/wp-includes/pomo/streams.php on line 81
+[06-Apr-2016 14:44:21 UTC] PHP Notice:  Undefined index: showf in /home/man86ebc/public_html/wp-content/plugins/ultimate-social-media-plus/libs/sfsi_widget.php on line 102
+[06-Apr-2016 14:44:21 UTC] PHP Notice:  Undefined index: map_title in /home/man86ebc/public_html/wp-content/plugins/wp-google-map-plugin/core/class.map-widget.php on line 74
+[06-Apr-2016 14:44:21 UTC] PHP Notice:  Undefined index: map_id in /home/man86ebc/public_html/wp-content/plugins/wp-google-map-plugin/core/class.map-widget.php on line 86
+[07-Apr-2016 05:22:03 UTC] PHP Notice:  Undefined index: showf in /home/man86ebc/public_html/wp-content/plugins/ultimate-social-media-plus/libs/sfsi_widget.php on line 102
+[07-Apr-2016 05:22:04 UTC] PHP Notice:  Undefined index: map_title in /home/man86ebc/public_html/wp-content/plugins/wp-google-map-plugin/core/class.map-widget.php on line 74
+[07-Apr-2016 05:22:04 UTC] PHP Notice:  Undefined index: map_id in /home/man86ebc/public_html/wp-content/plugins/wp-google-map-plugin/core/class.map-widget.php on line 86
+[07-Apr-2016 05:27:03 UTC] PHP Notice:  Undefined index: showf in /home/man86ebc/public_html/wp-content/plugins/ultimate-social-media-plus/libs/sfsi_widget.php on line 102
+[07-Apr-2016 05:27:03 UTC] PHP Notice:  Undefined index: map_title in /home/man86ebc/public_html/wp-content/plugins/wp-google-map-plugin/core/class.map-widget.php on line 74
+[07-Apr-2016 05:27:03 UTC] PHP Notice:  Undefined index: map_id in /home/man86ebc/public_html/wp-content/plugins/wp-google-map-plugin/core/class.map-widget.php on line 86
+[07-Apr-2016 05:34:14 UTC] PHP Notice:  Undefined index: showf in /home/man86ebc/public_html/wp-content/plugins/ultimate-social-media-plus/libs/sfsi_widget.php on line 102
+[07-Apr-2016 05:34:14 UTC] PHP Notice:  Undefined index: map_title in /home/man86ebc/public_html/wp-content/plugins/wp-google-map-plugin/core/class.map-widget.php on line 74
+[07-Apr-2016 05:34:14 UTC] PHP Notice:  Undefined index: map_id in /home/man86ebc/public_html/wp-content/plugins/wp-google-map-plugin/core/class.map-widget.php on line 86
+[07-Apr-2016 05:45:17 UTC] PHP Notice:  Undefined index: showf in /home/man86ebc/public_html/wp-content/plugins/ultimate-social-media-plus/libs/sfsi_widget.php on line 102
+[07-Apr-2016 05:45:17 UTC] PHP Notice:  Undefined index: map_title in /home/man86ebc/public_html/wp-content/plugins/wp-google-map-plugin/core/class.map-widget.php on line 74
+[07-Apr-2016 05:45:17 UTC] PHP Notice:  Undefined index: map_id in /home/man86ebc/public_html/wp-content/plugins/wp-google-map-plugin/core/class.map-widget.php on line 86
+[07-Apr-2016 06:09:09 UTC] PHP Notice:  Undefined index: showf in /home/man86ebc/public_html/wp-content/plugins/ultimate-social-media-plus/libs/sfsi_widget.php on line 102
+[07-Apr-2016 06:09:09 UTC] PHP Notice:  Undefined index: map_title in /home/man86ebc/public_html/wp-content/plugins/wp-google-map-plugin/core/class.map-widget.php on line 74
+[07-Apr-2016 06:09:09 UTC] PHP Notice:  Undefined index: map_id in /home/man86ebc/public_html/wp-content/plugins/wp-google-map-plugin/core/class.map-widget.php on line 86
+[07-Apr-2016 16:13:10 UTC] PHP Notice:  Undefined index: showf in /home/man86ebc/public_html/wp-content/plugins/ultimate-social-media-plus/libs/sfsi_widget.php on line 102
+[07-Apr-2016 16:13:10 UTC] PHP Notice:  Undefined index: map_title in /home/man86ebc/public_html/wp-content/plugins/wp-google-map-plugin/core/class.map-widget.php on line 74
+[07-Apr-2016 16:13:10 UTC] PHP Notice:  Undefined index: map_id in /home/man86ebc/public_html/wp-content/plugins/wp-google-map-plugin/core/class.map-widget.php on line 86
+[07-Apr-2016 17:02:27 UTC] PHP Notice:  Undefined index: showf in /home/man86ebc/public_html/wp-content/plugins/ultimate-social-media-plus/libs/sfsi_widget.php on line 102
+[07-Apr-2016 17:02:27 UTC] PHP Notice:  Undefined index: map_title in /home/man86ebc/public_html/wp-content/plugins/wp-google-map-plugin/core/class.map-widget.php on line 74
+[07-Apr-2016 17:02:27 UTC] PHP Notice:  Undefined index: map_id in /home/man86ebc/public_html/wp-content/plugins/wp-google-map-plugin/core/class.map-widget.php on line 86
+[15-Apr-2016 06:50:08 UTC] PHP Notice:  Undefined index: showf in /home/man86ebc/public_html/wp-content/plugins/ultimate-social-media-plus/libs/sfsi_widget.php on line 102
+[15-Apr-2016 06:50:09 UTC] PHP Notice:  Undefined index: map_title in /home/man86ebc/public_html/wp-content/plugins/wp-google-map-plugin/core/class.map-widget.php on line 74
+[15-Apr-2016 06:50:09 UTC] PHP Notice:  Undefined index: map_id in /home/man86ebc/public_html/wp-content/plugins/wp-google-map-plugin/core/class.map-widget.php on line 86
+[18-Apr-2016 03:39:47 UTC] PHP Notice:  Undefined index: showf in /home/man86ebc/public_html/wp-content/plugins/ultimate-social-media-plus/libs/sfsi_widget.php on line 102
+[18-Apr-2016 03:39:47 UTC] PHP Notice:  Undefined index: map_title in /home/man86ebc/public_html/wp-content/plugins/wp-google-map-plugin/core/class.map-widget.php on line 74
+[18-Apr-2016 03:39:47 UTC] PHP Notice:  Undefined index: map_id in /home/man86ebc/public_html/wp-content/plugins/wp-google-map-plugin/core/class.map-widget.php on line 86
+[18-Apr-2016 03:39:50 UTC] PHP Notice:  Undefined index: showf in /home/man86ebc/public_html/wp-content/plugins/ultimate-social-media-plus/libs/sfsi_widget.php on line 102
+[18-Apr-2016 03:39:50 UTC] PHP Notice:  Undefined index: map_title in /home/man86ebc/public_html/wp-content/plugins/wp-google-map-plugin/core/class.map-widget.php on line 74
+[18-Apr-2016 03:39:50 UTC] PHP Notice:  Undefined index: map_id in /home/man86ebc/public_html/wp-content/plugins/wp-google-map-plugin/core/class.map-widget.php on line 86
+[23-Apr-2016 06:33:49 UTC] PHP Fatal error:  Out of memory (allocated 29884416) (tried to allocate 7680 bytes) in /home/man86ebc/public_html/wp-content/plugins/woocommerce/woocommerce.php on line 114
+[04-May-2016 00:15:40 UTC] PHP Notice:  Undefined index: showf in /home/man86ebc/public_html/wp-content/plugins/ultimate-social-media-plus/libs/sfsi_widget.php on line 102
+[04-May-2016 00:15:40 UTC] PHP Notice:  Undefined index: map_title in /home/man86ebc/public_html/wp-content/plugins/wp-google-map-plugin/core/class.map-widget.php on line 74
+[04-May-2016 00:15:40 UTC] PHP Notice:  Undefined index: map_id in /home/man86ebc/public_html/wp-content/plugins/wp-google-map-plugin/core/class.map-widget.php on line 86
+[04-May-2016 00:16:15 UTC] PHP Notice:  Undefined index: wvisit_widget in /home/man86ebc/public_html/wp-content/plugins/wp-statistics/widget.php on line 203
+[04-May-2016 00:16:15 UTC] PHP Notice:  Undefined index: mvisit_widget in /home/man86ebc/public_html/wp-content/plugins/wp-statistics/widget.php on line 204
+[04-May-2016 00:16:15 UTC] PHP Notice:  Undefined index: ysvisit_widget in /home/man86ebc/public_html/wp-content/plugins/wp-statistics/widget.php on line 205
+[04-May-2016 00:16:15 UTC] PHP Notice:  Undefined index: tpviews_widget in /home/man86ebc/public_html/wp-content/plugins/wp-statistics/widget.php on line 208
+[04-May-2016 00:16:15 UTC] PHP Notice:  Undefined index: ser_widget in /home/man86ebc/public_html/wp-content/plugins/wp-statistics/widget.php on line 209
+[04-May-2016 00:16:15 UTC] PHP Notice:  Undefined index: select_se in /home/man86ebc/public_html/wp-content/plugins/wp-statistics/widget.php on line 210
+[04-May-2016 00:16:15 UTC] PHP Notice:  Undefined index: tp_widget in /home/man86ebc/public_html/wp-content/plugins/wp-statistics/widget.php on line 211
+[04-May-2016 00:16:15 UTC] PHP Notice:  Undefined index: tpg_widget in /home/man86ebc/public_html/wp-content/plugins/wp-statistics/widget.php on line 212
+[04-May-2016 00:16:15 UTC] PHP Notice:  Undefined index: tc_widget in /home/man86ebc/public_html/wp-content/plugins/wp-statistics/widget.php on line 213
+[04-May-2016 00:16:15 UTC] PHP Notice:  Undefined index: ts_widget in /home/man86ebc/public_html/wp-content/plugins/wp-statistics/widget.php on line 214
+[04-May-2016 00:16:15 UTC] PHP Notice:  Undefined index: tu_widget in /home/man86ebc/public_html/wp-content/plugins/wp-statistics/widget.php on line 215
+[04-May-2016 00:16:15 UTC] PHP Notice:  Undefined index: ap_widget in /home/man86ebc/public_html/wp-content/plugins/wp-statistics/widget.php on line 216
+[04-May-2016 00:16:15 UTC] PHP Notice:  Undefined index: ac_widget in /home/man86ebc/public_html/wp-content/plugins/wp-statistics/widget.php on line 217
+[04-May-2016 00:16:15 UTC] PHP Notice:  Undefined index: au_widget in /home/man86ebc/public_html/wp-content/plugins/wp-statistics/widget.php on line 218
+[04-May-2016 00:16:15 UTC] PHP Notice:  Undefined index: lpd_widget in /home/man86ebc/public_html/wp-content/plugins/wp-statistics/widget.php on line 219
+[04-May-2016 00:16:15 UTC] PHP Notice:  Undefined index: select_lps in /home/man86ebc/public_html/wp-content/plugins/wp-statistics/widget.php on line 220
+[04-May-2016 00:16:59 UTC] PHP Notice:  Undefined index: wvisit_widget in /home/man86ebc/public_html/wp-content/plugins/wp-statistics/widget.php on line 203
+[04-May-2016 00:16:59 UTC] PHP Notice:  Undefined index: mvisit_widget in /home/man86ebc/public_html/wp-content/plugins/wp-statistics/widget.php on line 204
+[04-May-2016 00:16:59 UTC] PHP Notice:  Undefined index: ysvisit_widget in /home/man86ebc/public_html/wp-content/plugins/wp-statistics/widget.php on line 205
+[04-May-2016 00:16:59 UTC] PHP Notice:  Undefined index: ttvisitor_widget in /home/man86ebc/public_html/wp-content/plugins/wp-statistics/widget.php on line 207
+[04-May-2016 00:16:59 UTC] PHP Notice:  Undefined index: tpviews_widget in /home/man86ebc/public_html/wp-content/plugins/wp-statistics/widget.php on line 208
+[04-May-2016 00:16:59 UTC] PHP Notice:  Undefined index: ser_widget in /home/man86ebc/public_html/wp-content/plugins/wp-statistics/widget.php on line 209
+[04-May-2016 00:16:59 UTC] PHP Notice:  Undefined index: select_se in /home/man86ebc/public_html/wp-content/plugins/wp-statistics/widget.php on line 210
+[04-May-2016 00:16:59 UTC] PHP Notice:  Undefined index: tp_widget in /home/man86ebc/public_html/wp-content/plugins/wp-statistics/widget.php on line 211
+[04-May-2016 00:16:59 UTC] PHP Notice:  Undefined index: tpg_widget in /home/man86ebc/public_html/wp-content/plugins/wp-statistics/widget.php on line 212
+[04-May-2016 00:16:59 UTC] PHP Notice:  Undefined index: tc_widget in /home/man86ebc/public_html/wp-content/plugins/wp-statistics/widget.php on line 213
+[04-May-2016 00:16:59 UTC] PHP Notice:  Undefined index: ts_widget in /home/man86ebc/public_html/wp-content/plugins/wp-statistics/widget.php on line 214
+[04-May-2016 00:16:59 UTC] PHP Notice:  Undefined index: tu_widget in /home/man86ebc/public_html/wp-content/plugins/wp-statistics/widget.php on line 215
+[04-May-2016 00:16:59 UTC] PHP Notice:  Undefined index: ap_widget in /home/man86ebc/public_html/wp-content/plugins/wp-statistics/widget.php on line 216
+[04-May-2016 00:16:59 UTC] PHP Notice:  Undefined index: ac_widget in /home/man86ebc/public_html/wp-content/plugins/wp-statistics/widget.php on line 217
+[04-May-2016 00:16:59 UTC] PHP Notice:  Undefined index: au_widget in /home/man86ebc/public_html/wp-content/plugins/wp-statistics/widget.php on line 218
+[04-May-2016 00:16:59 UTC] PHP Notice:  Undefined index: lpd_widget in /home/man86ebc/public_html/wp-content/plugins/wp-statistics/widget.php on line 219
+[04-May-2016 00:16:59 UTC] PHP Notice:  Undefined index: select_lps in /home/man86ebc/public_html/wp-content/plugins/wp-statistics/widget.php on line 220
+[27-May-2016 02:50:27 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 71 bytes) in /home/man86ebc/public_html/wp-includes/wp-db.php on line 2344
+[27-May-2016 02:50:40 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 71 bytes) in /home/man86ebc/public_html/wp-includes/wp-db.php on line 2344
+[21-Jun-2016 06:27:34 UTC] PHP Notice:  Undefined index: showf in /home/man86ebc/public_html/wp-content/plugins/ultimate-social-media-plus/libs/sfsi_widget.php on line 102
+[21-Jun-2016 06:27:34 UTC] PHP Notice:  Undefined index: map_title in /home/man86ebc/public_html/wp-content/plugins/wp-google-map-plugin/core/class.map-widget.php on line 74
+[21-Jun-2016 06:27:34 UTC] PHP Notice:  Undefined index: map_id in /home/man86ebc/public_html/wp-content/plugins/wp-google-map-plugin/core/class.map-widget.php on line 86
+[21-Jun-2016 06:27:40 UTC] PHP Notice:  Undefined index: showf in /home/man86ebc/public_html/wp-content/plugins/ultimate-social-media-plus/libs/sfsi_widget.php on line 102
+[21-Jun-2016 06:27:40 UTC] PHP Notice:  Undefined index: map_title in /home/man86ebc/public_html/wp-content/plugins/wp-google-map-plugin/core/class.map-widget.php on line 74
+[21-Jun-2016 06:27:40 UTC] PHP Notice:  Undefined index: map_id in /home/man86ebc/public_html/wp-content/plugins/wp-google-map-plugin/core/class.map-widget.php on line 86
+[21-Jun-2016 06:28:23 UTC] PHP Notice:  Undefined index: showf in /home/man86ebc/public_html/wp-content/plugins/ultimate-social-media-plus/libs/sfsi_widget.php on line 102
+[21-Jun-2016 06:28:23 UTC] PHP Notice:  Undefined index: map_title in /home/man86ebc/public_html/wp-content/plugins/wp-google-map-plugin/core/class.map-widget.php on line 74
+[21-Jun-2016 06:28:23 UTC] PHP Notice:  Undefined index: map_id in /home/man86ebc/public_html/wp-content/plugins/wp-google-map-plugin/core/class.map-widget.php on line 86
+[22-Jun-2016 04:15:45 UTC] PHP Notice:  Undefined index: showf in /home/man86ebc/public_html/wp-content/plugins/ultimate-social-media-plus/libs/sfsi_widget.php on line 102
+[22-Jun-2016 04:15:45 UTC] PHP Notice:  Undefined index: map_title in /home/man86ebc/public_html/wp-content/plugins/wp-google-map-plugin/core/class.map-widget.php on line 74
+[22-Jun-2016 04:15:45 UTC] PHP Notice:  Undefined index: map_id in /home/man86ebc/public_html/wp-content/plugins/wp-google-map-plugin/core/class.map-widget.php on line 86
